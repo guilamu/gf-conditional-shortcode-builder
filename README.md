@@ -62,9 +62,3 @@ The generated shortcode will appear in the **Generated Shortcode** textarea.
    This content shows if the Name field is NOT empty AND the Age is greater than 18\.  
 \[/gravityforms\]
 ``` 
-## **🤝 Compatibility**
-
-The plugin works perfectly as a standalone tool to generate the standard Gravity Forms conditional shortcode format.  
-When the following plugin is installed and activated, the UI seamlessly upgrades to support advanced multi-condition logic:
-
-* [**Gravity Forms Advanced Conditional Shortcodes**](https://gravitywiz.com/gravity-forms-advanced-conditional-shortcode) (by Gravity Wiz)
