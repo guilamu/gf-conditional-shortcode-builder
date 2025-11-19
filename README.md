@@ -10,7 +10,7 @@ This plugin is fully compatible with the [**Gravity Forms Advanced Conditional S
 * **Dedicated UI:** Access the builder directly within the Form Settings menu.  
 * **Visual Condition Building:** Easily select fields, operators (is, contains, greater\_than, etc.), and values using dropdowns and inputs.  
 * **Real-time Shortcode Generation:** The shortcode is generated instantly as you build your conditions.  
-* **Advanced Compatibility:** If the [**Gravity Forms Advanced Conditional Shortcodes**](https://gravitywiz.com/gravity-forms-advanced-conditional-shortcode) plugin is active, the builder automatically unlocks:  
+* **Advanced Compatibility:** If the excellent GravityWiz [**Gravity Forms Advanced Conditional Shortcodes**](https://gravitywiz.com/gravity-forms-advanced-conditional-shortcode) plugin is active, the builder automatically unlocks:  
   * **Relation Selector:** Choose between **Match ALL (AND)** or **Match ANY (OR)** logic.  
   * **Multiple Conditions:** Add and manage complex, multi-row condition groups.  
 * **Simple Copy:** One-click button to copy the finished shortcode to your clipboard.
