@@ -47,7 +47,7 @@ If you have the [**Gravity Forms Advanced Conditional Shortcodes**](https://grav
 The generated shortcode will appear in the **Generated Shortcode** textarea.
 
 1. Click the **Copy to Clipboard** button.  
-2. Paste the shortcode into any post, page, widget, or template file on your site where you want to conditionally display content.
+2. Paste the shortcode into any notification, HTML field or confirmation where you want to conditionally display content.
 
 **Example Generated Shortcode:**  
 \<\!-- Single Condition (Standard GF Shortcode) \--\>  
