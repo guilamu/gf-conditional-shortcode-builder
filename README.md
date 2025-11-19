@@ -49,15 +49,17 @@ The generated shortcode will appear in the **Generated Shortcode** textarea.
 
 **Example Generated Shortcode:**  
 \<\!-- Single Condition (Standard GF Shortcode) \--\>  
-\[gravityforms action="conditional" merge\_tag="{Field Label:1}" condition="is" value="red"\]  
+```
+\[gravityforms action="conditional" merge\_tag="{Field Label:1}" condition="is" value="red"\]
    This content shows if Field 1 is 'red'.  
 \[/gravityforms\]
-
+``` 
 \<\!-- Multiple Conditions (Advanced Shortcode) \--\>  
+```
 \[gravityforms action="conditional" relation="and" merge\_tag="{Name:1}" condition="isnot" value="" merge\_tag\_2="{Age:2}" condition\_2="greater\_than" value\_2="18"\]  
    This content shows if the Name field is NOT empty AND the Age is greater than 18\.  
 \[/gravityforms\]
-
+``` 
 ## **🤝 Compatibility**
 
 The plugin works perfectly as a standalone tool to generate the standard Gravity Forms conditional shortcode format.  
