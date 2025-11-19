@@ -3,6 +3,8 @@
 A utility plugin for Gravity Forms that adds a dedicated Form Setting page to visually construct conditional shortcodes, making it easy to display content based on form field values.  
 This plugin is fully compatible with the [**Gravity Forms Advanced Conditional Shortcodes**](https://gravitywiz.com/gravity-forms-advanced-conditional-shortcode) plugin (by Gravity Wiz), automatically enabling support for multiple conditions (AND/OR logic) when detected.
 
+![Plugin Screenshot](https://github.com/guilamu/gf-conditional-shortcode-builder/blob/main/screenshot.png)
+
 ## **✨ Features**
 
 * **Dedicated UI:** Access the builder directly within the Form Settings menu.  
