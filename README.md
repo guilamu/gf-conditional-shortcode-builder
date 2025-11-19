@@ -50,15 +50,15 @@ The generated shortcode will appear in the **Generated Shortcode** textarea.
 2. Paste the shortcode into any notification, HTML field or confirmation where you want to conditionally display content.
 
 **Example Generated Shortcode:**  
-\<\!-- Single Condition (Standard GF Shortcode) \--\>  
+<\!-- Single Condition (Standard GF Shortcode) \--\>  
 ```
-\[gravityforms action="conditional" merge\_tag="{Field Label:1}" condition="is" value="red"\]
+[gravityforms action="conditional" merge_tag="{Field Label:1}" condition="is" value="red"]
    This content shows if Field 1 is 'red'.  
-\[/gravityforms\]
+[/gravityforms]
 ``` 
 \<\!-- Multiple Conditions (Advanced Shortcode) \--\>  
 ```
-\[gravityforms action="conditional" relation="and" merge\_tag="{Name:1}" condition="isnot" value="" merge\_tag\_2="{Age:2}" condition\_2="greater\_than" value\_2="18"\]  
-   This content shows if the Name field is NOT empty AND the Age is greater than 18\.  
-\[/gravityforms\]
+[gravityforms action="conditional" relation="and" merge_tag="{Name:1}" condition="isnot" value="" merge_tag_2="{Age:2}" condition_2="greater_than" value_2="18"]  
+   This content shows if the Name field is NOT empty AND the Age is greater than 18.  
+[/gravityforms]
 ``` 
