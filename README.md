@@ -62,6 +62,6 @@ The generated shortcode will appear in the **Generated Shortcode** textarea.
    This content shows if the Name field is NOT empty AND the Age is greater than 18.  
 [/gravityforms]
 ```
-### License
+### **5\. License
 
 This project is licensed under the GNU AGPL.
