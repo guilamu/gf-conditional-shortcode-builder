@@ -61,4 +61,7 @@ The generated shortcode will appear in the **Generated Shortcode** textarea.
 [gravityforms action="conditional" relation="and" merge_tag="{Name:1}" condition="isnot" value="" merge_tag_2="{Age:2}" condition_2="greater_than" value_2="18"]  
    This content shows if the Name field is NOT empty AND the Age is greater than 18.  
 [/gravityforms]
-``` 
+```
+### License
+
+This project is licensed under the GNU AGPL.
